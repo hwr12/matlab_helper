@@ -1,17 +1,13 @@
-# matlab_helper
+# Matlab Helper
 
-A new Flutter project.
+A tool for generating 2 dimensional heat transfer matlab code with easy to use ui.
 
-## Getting Started
+# Example url
+www.hyeon.net/matlab
 
-This project is a starting point for a Flutter application.
+# Installation
+build web : flutter build web --web-renderer canvaskit --base-href /matlab/ 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# matlab_helper
+# Matlab_helper showcase
+<img width="1675" alt="Google Chrome-2022 12 05 18 07-000396" src="https://user-images.githubusercontent.com/54504396/205597774-d6cdf5e8-44b0-47a8-819a-32034ec8021f.png">
+<img width="1675" alt="Google Chrome-2022 12 05 18 06-000394" src="https://user-images.githubusercontent.com/54504396/205597786-efdaa719-eb4b-470a-b07f-07bac2ecf897.png">
